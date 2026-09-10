@@ -11,6 +11,9 @@
 
     <p>Joseph Gamboa C4F292</p>
     <p>Joseth Barrios C5D075</p>
+    <p>Johan Cerdas C31976</p>
+    <p>Jefferson Bonilla C21262</p>
+    <p>Joel Collado C32254</p>
   
     <br>
 
