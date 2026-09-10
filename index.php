@@ -1,29 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>lab2-grupo 7</title>
-    <link rel="import" href="<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <title>Lab 2 - Grupo 7</title>
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
+          rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-    <p>Joseph Gamboa C4F292</p>
-    <p>Joseth Barrios C5D075</p>
-    <p>Johan Cerdas C31976</p>
-    <p>Jefferson Bonilla C21262</p>
-    <p>Joel Collado C32254</p>
-   
-    <br>
+    <div class="contenedor">
 
-    <form action="subir.php" method="POST" enctype="multipart/form-data">
-    <input type="file" name="archivo">
-    <button type="submit">Subir</button>
-    </form>
-        
-    </body>
+        <h1>Integrantes del Grupo 7</h1>
+
+        <div class="integrantes">
+            <p>Joseph Gamboa <span>C4F292</span></p>
+            <p>Joseth Barrios <span>C5D075</span></p>
+            <p>Johan Cerdas <span>C31976</span></p>
+            <p>Jefferson Bonilla <span>C21262</span></p>
+            <p>Joel Collado <span>C32254</span></p>
+        </div>
+
+        <div class="formulario">
+
+            <h2>Subir archivo</h2>
+
+            <form action="subir.php" method="POST" enctype="multipart/form-data">
+
+                <input type="file" name="archivo">
+
+                <button type="submit">Subir</button>
+
+            </form>
+
+        </div>
+
+    </div>
+
+</body>
+
 </html>
