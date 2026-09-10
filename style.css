@@ -69,3 +69,24 @@ button {
 button:hover {
     background-color: #0b5ed7;
 }
+
+.mensaje {
+    text-align: center;
+}
+
+.mensaje p {
+    margin: 20px 0;
+    color: #555;
+}
+
+.mensaje strong {
+    color: #0d6efd;
+}
+
+.mensaje a {
+    text-decoration: none;
+}
+
+.mensaje button {
+    width: 150px;
+}
