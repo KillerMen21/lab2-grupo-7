@@ -4,11 +4,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
     <title>lab2-grupo 7</title>
+
+
+    <title>lab2-grupo 7</title>
+
     <title>Lab 2 - Grupo 7</title>
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
           rel="stylesheet">
+
 
     <link rel="stylesheet" href="style.css">
 </head>
