@@ -94,3 +94,8 @@ button:hover {
 .mensaje button {
     width: 150px;
 }
+
+p {
+  font-weight: bold;
+}
+
