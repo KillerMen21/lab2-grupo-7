@@ -45,6 +45,17 @@
         </fieldset>
     </form>
 
+<<<<<<< HEAD
 </body>
 
+=======
+    <br>
+
+    <form action="subir.php" method="POST" enctype="multipart/form-data">
+    <input type="file" name="archivo">
+    <button type="submit">Subir</button>
+    </form>
+        
+    </body>
+>>>>>>> aadefa8 (Mi cambio)
 </html>
